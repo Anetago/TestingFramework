@@ -1,3 +1,7 @@
+
+build/
+!build/.keep
+
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
