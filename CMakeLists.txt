@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.18)
 
-project(AnetagoTest CXX)
+project(AnetagoTesting CXX)
 set(ANETAGO_GLOBAL_PROJECT_NAME ${PROJECT_NAME})
 
 ## include directory
